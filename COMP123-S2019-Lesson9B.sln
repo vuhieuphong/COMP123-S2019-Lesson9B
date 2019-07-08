@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.28307.705
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CalculatorForm", "COMP123-S2019-Lesson9B\CalculatorForm.csproj", "{2DF31358-0DB6-4397-A714-EAB6619E6233}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "COMP123-S2019-Lesson9B", "COMP123-S2019-Lesson9B\COMP123-S2019-Lesson9B.csproj", "{2DF31358-0DB6-4397-A714-EAB6619E6233}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
